@@ -21,15 +21,15 @@ df["date"] = pd.to_datetime(df["date"])
 df = df[df["date"]>pd.to_datetime("2016-1-1")]
 df = df[df["date"]<pd.to_datetime("2023-1-1")]
 
-
-for market in ["Aba"
-, "Mai Gatari (CBM)"
-, "Jibia (CBM)"
-, "Mai Adoua (CBM)"
-, "Illela (CBM)"
-, "Bolori Stores"
-]:
-    df = df[df["market"]!=market]
+# We remove some charity markets
+# for market in [ "Mai Gatari (CBM)"
+#     # "Aba"
+# , "Jibia (CBM)"
+# , "Mai Adoua (CBM)"
+# , "Illela (CBM)"
+# # , "Bolori Stores"
+# ]:
+#     df = df[df["market"]!=market]
 
 # df.sort_values("price", ascending=False).head(180)
 # df= df.drop(
