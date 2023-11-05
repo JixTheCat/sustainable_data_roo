@@ -5,16 +5,16 @@ import pandas as pd
 from sklearn.preprocessing import normalize
 
 df = pd.read_csv("data/wfp_food_prices_nga.csv")
-df = df[["usdprice", "date"]]
+df = df[["price", "date"]]
 df = df.drop(0)
-df["usdprice"] = df["usdprice"].apply(pd.to_numeric)
+df["price"] = df["price"].apply(pd.to_numeric)
 df["date"] = pd.to_datetime(df["date"])
 df = df.sort_values(by='date')
 df= df.groupby(by="date").mean()
 
-# df["usdprice"] = (
-#     df["usdprice"] - df["usdprice"].mean()
-#     )/df["usdprice"].std()
+# df["price"] = (
+#     df["price"] - df["price"].mean()
+#     )/df["price"].std()
 
 # sampling rate
 sr = 12
@@ -22,7 +22,7 @@ sr = 12
 ts = 1.0/sr
 t = np.arange(0,1,ts)
 
-X = fft(df["usdprice"])
+X = fft(df["price"])
 N = len(X)
 n = np.arange(N)
 T = N/sr
@@ -30,7 +30,7 @@ freq = n/T
 
 # Throwing a time series thingo in...
 
-X = fft(df["usdprice"])
+X = fft(df["price"])
 N = len(X)
 n = np.arange(N)
 T = N/sr
