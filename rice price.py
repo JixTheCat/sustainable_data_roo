@@ -81,12 +81,27 @@ fig = go.Figure(data=[
 fig.update_layout(
     title='Rice Prices in Nigeria',
     yaxis_title='Naira',
-    annotations=[
-        dict(
-        x='2016-12-09', y=0.05, xref='x', yref='paper',
-        showarrow=False, xanchor='left', text='Increase Period Begins')]
+    shapes = [dict(
+        x0='2022-02-21', x1='2022-02-21', y0=0, y1=1, xref='x', yref='paper',
+        line_width=2)],
+    annotations=[dict(
+        x='2022-02-21', y=0.05, xref='x', yref='paper',
+        showarrow=False, xanchor='left', text='Russo-Ukraine War')],
+    legend=dict(
+        x=0,
+        y=1,
+        traceorder="reversed",
+        title_font_family="Times New Roman",
+        font=dict(
+            family="Courier",
+            size=12,
+            color="black"
+        ),
+        bgcolor="LightSteelBlue",
+        bordercolor="Black",
+        borderwidth=2
+    )
 )
-
 
 fig.write_html("riceprice.html")
 fig.show()
