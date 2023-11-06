@@ -18,7 +18,7 @@ def calculate_probability_distribution(dataset):
     probability_distribution = {number: count / total_items for number, count in counter.items()}
     return probability_distribution
 
-def create_sampling_distribution(dataset):
+def create_sampling_distribution(dataset, sample_no):
     """
     Creates a sampling distribution based on the input dataset.
     
@@ -31,5 +31,5 @@ def create_sampling_distribution(dataset):
     probability_distribution = calculate_probability_distribution(dataset)
     sampling_distribution = random.choices(list(probability_distribution.keys()), 
                                           weights=list(probability_distribution.values()), 
-                                          k=len(dataset))
+                                          k=sample_no)
     return sampling_distribution
