@@ -9,4 +9,4 @@ Key Features:
 Market Insights: Access to up-to-date pricing and demand information for various crops in your region.
 Matchmaking: Discover potential buyers and sellers in the area, creating fruitful connections.
 Logistics Support: Seamlessly plan transportation and delivery of  crops to the right markets.
-Education: Benefit from expert tips and recommendations on crop management and sales strategies
+Education: Benefit from expert tips and recommendations on crop management and sales strategies.
