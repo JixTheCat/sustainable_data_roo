@@ -1,0 +1,41 @@
+date,market,latitude,longitude,category,commodity,unit,priceflag,pricetype,currency,price,usdprice,Country
+2015-06-15,Damassack (CBM),13.01,12.56,cereals and tubers,Rice (imported),100 KG,actual,Wholesale,NGN,440.0,221.22000000000003,Nigeria
+2017-01-15,Mai Gatari (CBM),12.78,9.44,cereals and tubers,Rice (imported),100 KG,actual,Wholesale,NGN,188.0,61.61,Nigeria
+2017-03-15,Illela (CBM),13.645,5.278,cereals and tubers,Rice (imported),100 KG,actual,Wholesale,NGN,478.0,152.23,Nigeria
+2017-03-15,Mai Adoua (CBM),13.18,8.23,cereals and tubers,Rice (imported),100 KG,actual,Wholesale,NGN,236.0,75.16000000000001,Nigeria
+2017-03-15,Jibia (CBM),13.08,7.24,cereals and tubers,Rice (imported),100 KG,actual,Wholesale,NGN,350.0,111.46,Nigeria
+2017-08-15,Bolori Stores,11.85260253,13.14149168,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,600.0,117.416634,Nigeria
+2021-05-15,Kusawam Shanu,11.85888672,13.17599583,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,825.0,149.03869500000002,Nigeria
+2022-05-15,Damaturu (Sunday Market),11.73976612,11.95581055,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,900.0,154.54594800000004,Nigeria
+2022-05-15,Tashan Bama,11.81095314,13.18214989,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1175.0,201.768321,Nigeria
+2023-01-15,Gwandu,12.49382019,4.642270088,cereals and tubers,Rice (imported),100 KG,aggregate,Wholesale,NGN,33700.0,146.291,Nigeria
+2023-01-15,Dawanau,12.09012032,8.429120064,cereals and tubers,Rice (imported),100 KG,aggregate,Retail,NGN,606.9,131.73,Nigeria
+2023-01-15,Dandume,11.41666985,7.199999809,cereals and tubers,Rice (local),100 KG,aggregate,Wholesale,NGN,56000.0,121.5473,Nigeria
+2023-01-15,Ibadan,7.401959896,3.917309999,cereals and tubers,Rice (imported),100 KG,aggregate,Retail,NGN,733.92,159.3,Nigeria
+2023-01-15,Damaturu,11.74444008,11.96111012,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,477.82,103.71,Nigeria
+2023-01-15,Lagos,6.612164021,3.401896954,cereals and tubers,Rice (imported),100 KG,aggregate,Retail,NGN,1076.49,233.65,Nigeria
+2023-01-15,Aba,5.147640228,7.356719971,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,690.3,149.82999999999998,Nigeria
+2023-01-15,Mubi,10.2676096,13.26436043,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,491.22,106.62,Nigeria
+2023-01-15,Biu,10.6111002,12.19499969,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,413.6,89.77000000000001,Nigeria
+2023-01-15,Saminaka,10.41650009,8.681380272,cereals and tubers,Rice (local),100 KG,aggregate,Wholesale,NGN,48000.0,104.1834,Nigeria
+2023-01-15,Gombe,10.28332996,11.16666985,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,535.71,116.28,Nigeria
+2023-01-15,Gujungu,12.36229992,9.583600044,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,569.62,123.64,Nigeria
+2023-01-15,Giwa,11.28015995,7.417860031,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,571.4,124.02,Nigeria
+2023-01-15,Maiduguri,11.83110046,13.15097046,cereals and tubers,Rice (imported),100 KG,aggregate,Retail,NGN,1034.48,224.53,Nigeria
+2023-01-15,Kaura Namoda,12.59519005,6.586349964,cereals and tubers,Rice (local),100 KG,aggregate,Retail,NGN,513.98,111.56,Nigeria
+2023-06-15,Bade (Gashua),12.86866474,11.03962421,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,994.0,153.55307100000002,Nigeria
+2023-06-15,Nguru,12.87296486,10.44559479,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,980.0,151.39588500000002,Nigeria
+2023-06-15,Yunusari,13.14983368,11.54023552,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,1001.0,154.638807,Nigeria
+2023-06-15,Yusufari,13.06266499,11.17137051,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1176.0,181.67506200000005,Nigeria
+2023-06-15,Jakusko,12.20185947,10.8782444,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,1001.0,154.638807,Nigeria
+2023-06-15,Potiskum,11.7072401,11.08248997,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1218.0,188.160906,Nigeria
+2023-06-15,Gulani (Tettaba),10.8139019,11.72819233,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,1064.0,164.36757300000002,Nigeria
+2023-06-15,Geidam,12.89027786,11.92116642,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1232.0,190.325235,Nigeria
+2023-06-15,Bursari,12.49669266,11.49950314,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1288.0,198.975408,Nigeria
+2023-06-15,Monday,11.83455086,13.15241718,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1792.0,276.834108,Nigeria
+2023-06-15,Custom,11.85070992,13.17124176,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1974.0,304.948956,Nigeria
+2023-06-15,Budum,11.84973431,13.16344166,cereals and tubers,Rice (imported),100 KG,actual,Retail,NGN,1792.0,276.834108,Nigeria
+2023-06-15,Bullunkutu,11.82981205,13.09264565,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,1183.0,182.753655,Nigeria
+2023-06-15,Baga Road,11.86795044,13.1233139,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,1127.0,174.103482,Nigeria
+2023-06-15,Gujba (Buni Yadi),11.28520203,11.99950123,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,997.0,154.017366,Nigeria
+2023-06-15,Abba Gamaram,11.85818195,13.15489197,cereals and tubers,Rice (local),100 KG,actual,Retail,NGN,1120.0,173.024889,Nigeria
